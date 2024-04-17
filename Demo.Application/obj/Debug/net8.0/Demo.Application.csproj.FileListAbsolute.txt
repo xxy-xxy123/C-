@@ -1,0 +1,15 @@
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfoInputs.cache
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.AssemblyInfo.cs
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.CoreCompileInputs.cache
+E:\WPF练习\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.deps.json
+E:\WPF练习\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.dll
+E:\WPF练习\Demo\Demo.Application\bin\Debug\net8.0\Demo.Application.pdb
+E:\WPF练习\Demo\Demo.Application\bin\Debug\net8.0\Demo.Domain.dll
+E:\WPF练习\Demo\Demo.Application\bin\Debug\net8.0\Demo.Domain.pdb
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.csproj.AssemblyReference.cache
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.App.371CD7EF.Up2Date
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.dll
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\refint\Demo.Application.dll
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\Demo.Application.pdb
+E:\WPF练习\Demo\Demo.Application\obj\Debug\net8.0\ref\Demo.Application.dll

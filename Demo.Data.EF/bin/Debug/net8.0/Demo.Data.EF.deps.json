@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo.Data.EF/1.0.0": {
+        "dependencies": {
+          "Demo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Demo.Data.EF.dll": {}
+        }
+      },
+      "Demo.Domain/1.0.0": {
+        "runtime": {
+          "Demo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Data.EF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

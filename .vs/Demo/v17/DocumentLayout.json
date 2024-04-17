@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WPF\u7EC3\u4E60\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\apimodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\apimodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92562F05-7490-4D6E-8AB7-A083BFB1454B}|Demo.Application\\Demo.Application.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92562F05-7490-4D6E-8AB7-A083BFB1454B}|Demo.Application\\Demo.Application.csproj|solutionrelative:demo.application\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70A7356-4EA8-4CD0-9CD4-39E2C4FABA14}|Demo.Data.NH\\Demo.Data.NH.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo.data.nh\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70A7356-4EA8-4CD0-9CD4-39E2C4FABA14}|Demo.Data.NH\\Demo.Data.NH.csproj|solutionrelative:demo.data.nh\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F20E18D-4B93-491A-BFA3-33E81CF434BE}|Demo.Domain\\Demo.Domain.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo.domain\\dbcontexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F20E18D-4B93-491A-BFA3-33E81CF434BE}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\dbcontexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|e:\\wpf\u7EC3\u4E60\\demo\\demo1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C99C4AC-2875-4559-8E60-9237814B8498}|Demo1\\Demo1.csproj|solutionrelative:demo1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiModule.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\ApiModule.cs",
+              "RelativeDocumentMoniker": "Demo1\\ApiModule.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\ApiModule.cs",
+              "RelativeToolTip": "Demo1\\ApiModule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:35:06.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Application\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Demo.Application\\Service\\UserService.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Application\\Service\\UserService.cs",
+              "RelativeToolTip": "Demo.Application\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:13:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:45:16.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Demo1\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Demo1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:02:18.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Data.NH\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Demo.Data.NH\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Data.NH\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Demo.Data.NH\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:45:51.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Demo1\\appsettings.Development.json",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\appsettings.Development.json",
+              "RelativeToolTip": "Demo1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T10:29:17.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T10:25:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Startup.cs",
+              "RelativeDocumentMoniker": "Demo1\\Startup.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Startup.cs",
+              "RelativeToolTip": "Demo1\\Startup.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAzwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:03:42.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo1\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T10:29:06.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dbcontext.cs",
+              "DocumentMoniker": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Domain\\DbContexts\\Dbcontext.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\DbContexts\\Dbcontext.cs",
+              "ToolTip": "E:\\WPF\u7EC3\u4E60\\Demo\\Demo.Domain\\DbContexts\\Dbcontext.cs",
+              "RelativeToolTip": "Demo.Domain\\DbContexts\\Dbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:19:29.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
